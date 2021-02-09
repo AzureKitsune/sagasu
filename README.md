@@ -1,4 +1,4 @@
-## 探す (Saga-su) - "To Find"
+## 探す (Sa-ga-su) - "To Find"
 
 Sagasu is a Chromium/Edgium extension that adds custom search engines to the browser for websites that lack those definitions in their metadata. The websites in question are ones that are frequented by the English speaking Anime/Manga fandom.
 
@@ -14,7 +14,7 @@ Sagasu is a Chromium/Edgium extension that adds custom search engines to the bro
 ### How it works
 - Step 1: Install the extension (instructions are below)
 - Step 2: Type "su" and press tab into the omnibox (address bar)
-- Step 3: Type your query and select a site from the dropdown.
+- Step 3: Type your query and select a site from the dropdown. This will open your search in a new tab.
 
 ### Installation Instructions
 - Step 1: Download source code from either the [releases page](https://github.com/AzureKitsune/sagasu/releases) or the main branch.
