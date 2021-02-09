@@ -12,8 +12,8 @@ Sagasu is a Chromium/Edgium extension that adds custom search engines to the bro
 - [Sentai Filmworks](https://www.sentaifilmworks.com) - Shop The Sentai Filmworks Store
 
 ### How it works
-- Step 1: Install the extension (instructions are below)
-- Step 2: Type "su" and press tab into the omnibox (address bar)
+- Step 1: Install the extension (instructions are below).
+- Step 2: Type "su" and press tab into the omnibox (address bar).
 - Step 3: Type your query and select a site from the dropdown. This will open your search in a new tab.
 
 ### Installation Instructions
